@@ -1,0 +1,8 @@
+Size of the final Brazilian dataset: 111023
+Size of the final E-commerce dataset: 1500
+Size of the final wish dataset: 1573
+
+Shape of the final dataset: (112523, 10)
+Columns of the final dataset: ['order_item_id', 'product_id', 'customer_unique_id', 'Order ID',
+       'Order Date', 'CustomerName', 'City', 'Category', 'Sub-Category',
+       'Quantity']
